@@ -6,28 +6,43 @@ Mental and substance use disorders are significant contributors to the global di
 ## Datasets
 The following datasets from Kaggle are used in this project:
 
-Mental Health Dataset: https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset
-Global Trends in Mental Health Disorder: https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder
+Mental Health Dataset: https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset  
+
+Global Trends in Mental Health Disorder: https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder  
+
 These datasets contain information about the prevalence of different mental and substance use disorders and their contribution to the overall disease burden.
 
 ## Project Structure
 
-mental-health-analysis/
-│
-├── data/
-│   ├── mental-and-substance-use-as-share-of-disease.csv
-│   ├── prevalence-by-mental-and-substance-use-disorder.csv
-│
-├── notebooks/
-│   ├── MFT_vibhu.ipynb
-│
-├── images/
-│   ├── eda_plots.png
-│   ├── model_performance.png
-│
-├── README.md
-│
-└── requirements.txt
+mental-health-analysis/  
+
+│  
+
+├── data/  
+
+│   ├── mental-and-substance-use-as-share-of-disease.csv  
+
+│   ├── prevalence-by-mental-and-substance-use-disorder.csv  
+
+│  
+
+├── notebooks/  
+
+│   ├── MFT_vibhu.ipynb  
+
+│  
+
+├── images/  
+
+│   ├── eda_plots.png  
+
+│   ├── model_performance.png  
+
+│  
+
+├── README.md  
+
+
 ## Installation
 To run this project, you need to have Python and Jupyter Notebook installed.
 
